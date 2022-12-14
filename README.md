@@ -2,10 +2,6 @@
 
 ## iOS Developer
 
-- 🕶️ Learning
-- 📙 Reading
-- ✨ ...
-
 <br />
 
 ### Languages and Tools:
