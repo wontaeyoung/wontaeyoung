@@ -1,4 +1,4 @@
-### Hi there, I'm Taeyoung👋
+# Hi there, I'm Taeyoung👋
 
 ## iOS Developer
 
