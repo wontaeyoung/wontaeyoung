@@ -1,10 +1,8 @@
-# Hi there, I'm Taeyoung👋
+# iOS 개발자 원태영입니다.
 
-## iOS Developer
+<br/>
 
-<br />
-
-### Languages and Tools:
+## Languages and Tools:
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/SwiftUI-0D0D0D?style=flat&logo=swift&logoColor=blue" />
