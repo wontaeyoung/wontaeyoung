@@ -25,7 +25,7 @@
 
 <br/>
 
-## Contant & Channel
+## Contact & Channel
 - Blog : https://velog.io/@wontaeyoung
 - Email: hexter1994@gmail/naver.com
 
