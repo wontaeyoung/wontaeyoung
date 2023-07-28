@@ -5,7 +5,7 @@
 
 <br/>
 
-## Skill and Tool
+## Skill & Tool
 - iOS : Swift, UIKit/SwifUI, Async, KeyChain, NSCache, URLSession
 - Firebase : Auth, Firestore
 - Tool : Git, Github
@@ -24,6 +24,10 @@
 - 2020.03 ~ 2022.06 쿠팡이츠 Operation Strategy 서비스 프로세스 개선, 지표 관리
 
 <br/>
+
+## Contant & Channel
+- Blog : https://velog.io/@wontaeyoung
+- Email: hexter1994@gmail/naver.com
 
 ---
 
