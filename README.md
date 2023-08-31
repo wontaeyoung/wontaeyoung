@@ -6,22 +6,22 @@
 <br/>
 
 ## Skill & Tool
-- iOS : Swift, UIKit/SwifUI, Async, KeyChain, NSCache, URLSession
-- Firebase : Auth, Firestore
-- Tool : Git, Github
-- Architecture: MVVM, Clean Architecture
+- iOS - Swift, UIKit/SwifUI, Async-Await, KeyChain, NSCache, URLSession, UserDefault
+- Firebase - Auth, Firestore
+- Tool - Git, Github
+- Architecture - MVVM, Clean Architecture
 
 <br/>
 
 ## Education
-- 2023.08 ~ 현재 한국방송통신대학교 컴퓨터공학과
+- 2023.08 ~ 한국방송통신대학교 컴퓨터공학과
 - 2022.09 ~ 2023.02 멋쟁이 사자처럼 iOS 앱스쿨
 - 2022.07 ~ 2022.08 네이버 부스트캠프 챌린지 iOS
 - 2013.03 ~ 2017.06 한국호텔관광전문학교 호텔관광경영학과
 
 <br/>
 
-## Career(비개발)
+## Career(비 개발)
 - 2020.03 ~ 2022.06 쿠팡이츠 Operation Strategy 서비스 프로세스 개선, 지표 관리
 
 <br/>
