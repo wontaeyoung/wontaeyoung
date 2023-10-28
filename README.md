@@ -39,6 +39,13 @@
 - 검색어를 통해 알라딘 API를 응답받아서 책 정보를 보여주는 프로젝트
 - 코드베이스 UIKit과 바닐라 기능만으로 구현
 
+작업 기간
+- 2023.08 - 2023.10 (7주)
+
+작업 환경
+- iOS 14.0
+- Xcode 15.0.1
+
 <br>
 
 ![Vanilladin_프로젝트 이미지](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/96f803c4-e3a9-497f-a1af-1ce086ff0fdc)
@@ -46,7 +53,7 @@
 <br>
 
 **키워드**
-  - UIKit (iOS 14.0)
+  - UIKit
   - MVVM + Coordinator
   - async-await 비동기 처리
   - TaskGroup 병렬 처리
