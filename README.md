@@ -39,10 +39,10 @@
 - 검색어를 통해 알라딘 API를 응답받아서 책 정보를 보여주는 프로젝트
 - 코드베이스 UIKit과 바닐라 기능만으로 구현
 
-작업 기간
+**작업 기간**
 - 2023.08 - 2023.10 (7주)
 
-작업 환경
+**작업 환경**
 - iOS 14.0
 - Xcode 15.0.1
 
@@ -63,27 +63,38 @@
 
 <br><br>
 
+---
+
 ### [Gitspace](https://github.com/APPSCHOOL1-REPO/finalproject-gitspace)
 
 [Appstore Link](https://apps.apple.com/kr/app/gitspace/id6446034470)
 
 - 사용자가 Starred한 레포지토리를 커스텀 태그로 관리하고, Contributor와 채팅으로 소통할 수 있는 네트워킹 앱
+- SwiftUI + MVVM으로 1차 출시 완료
+- TCA 아키텍처 및 모듈화 적용 리팩토링 시작
 
-개발 인원
+**개발 인원**
 - iOS 개발자 7인
 
-작업 기간
+**작업 기간**
 - 2023.01 ~ 2023.05 (1차 출시)
 - 2023.10 ~ 진행 중 (리팩토링)
 
-작업 환경
+**작업 환경**
 - 1차 작업
   - iOS 15.0
   - Xcode 14.1
 - 리팩토링
   - iOS 16.0
   - Xcode 15.0.1
-  
+
+**키워드**
+  - SwiftUI
+  - MVVM
+  - async-await 비동기 처리
+  - Firebase
+  - NSCache 이미지
+  - Github API
 
 ---
 
