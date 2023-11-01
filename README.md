@@ -173,11 +173,17 @@ Vanilladin
 
 ## 싱글톤으로 생성하는 기준?
 
+<details>
+<summary>접기/펼치기</summary>
+<br>
+
 단일 책임과 기능을 가진 클래스를 사용할 때, 필요한 시점에 인스턴스를 휘발적으로 생성해서 사용하거나 싱글톤으로 단일 인스턴스를 메모리에 올려두고 사용할 수 있습니다.
 
 두 방법 중에 하나를 선택하는 명확한 기준이 필요한데, `DependencyContainer`나 `CacheManager`는 등록 작업을 수행한 스코프가 종료되어도 공유 데이터가 앱 생명주기동안 유지되어야 하고, 해당 데이터를 필요로하는 다른 객체가 불특정한 시점에 조회하더라도 이전에 등록된 데이터를 사용할 수 있어야합니다.
 
 이를 기준으로 다른 객체에서 접근하는 공유 데이터가 있다면 싱글톤으로 구현하고, 단순 기능 책임만 가진 클래스는 휘발적으로 인스턴스를 생성해서 작업이 종료되면 참조 카운트에 의해 자동으로 해제되도록 했습니다.
+
+</details>
 
 <br>
 
@@ -186,6 +192,10 @@ Vanilladin
 <br>
 
 ## 의존성 컨테이너의 인스턴스 고유 식별 문제
+
+<details>
+<summary>접기/펼치기</summary>
+<br>
 
 `DependencyContainer`는 레지스트리를 통해 의존성을 관리합니다. 인스턴스 획득 시 이미 등록된 의존성을 체크해서 재사용할 수 있도록 합니다.
 
@@ -209,13 +219,19 @@ Vanilladin
 
 <img width="600" alt="image" src="https://github.com/wontaeyoung/Vanilladin/assets/45925685/72505233-575f-4a69-a1d0-c6027bceb2c2">
 
-<br><br>
+</details>
+
+<br>
 
 ---
 
 <br>
 
 ## 레지스트리 인스턴스 미등록 예외처리 문제
+
+<details>
+<summary>접기/펼치기</summary>
+<br>
 
 `DependencyContainer`에서 의존성을 획득할 때, 등록되어있지 않은 경우에 대한 예외처리가 필요합니다.
 
@@ -259,6 +275,8 @@ Vanilladin
 
 `SceneDelegate`에서 앱 시작 시점에 모든 인스턴스 관계를 생성하는 `setDependency`를 호출하여 의존성을 주입하고 레지스트리에 등록하도록 했습니다.
 
+</details>
+
 <br>
 
 ---
@@ -266,6 +284,10 @@ Vanilladin
 <br>
 
 ## 이미지 동시 요청 순차처리 문제
+
+<details>
+<summary>접기/펼치기</summary>
+<br>
 
 Aladin API에서 응답받은 책 데이터에는 책 이미지 URL이 포함되어 있습니다. 클라이언트에서 사용하기 전에 `BookDTO`의 이미지 URL을 요청해서 `UIImage`로 변환한 `Book Entity`로 변환하는 과정이 필요했습니다.
 
@@ -317,10 +339,19 @@ Aladin API에서 응답받은 책 데이터에는 책 이미지 URL이 포함되
 
 <img width="600" alt="image" src="https://github.com/wontaeyoung/Vanilladin/assets/45925685/d5fb00f7-dead-4242-988f-1264bf44061b">
 
-<br><br>
+</details>
 
+<br>
+
+---
+
+<br>
 
 ## Keyword Cell 버튼 탭 불가 문제
+
+<details>
+<summary>접기/펼치기</summary>
+<br>
 
 <img width="200" alt="image" src="https://github.com/wontaeyoung/Vanilladin/assets/45925685/95eef726-436f-4c68-b4ea-93fe99b80085">
 
@@ -357,7 +388,6 @@ Aladin API에서 응답받은 책 데이터에는 책 이미지 URL이 포함되
 
 ```swift
 override func setConstraint() {
-
         ...
         
         paddingView.setPaddingAutoLayout(to: contentView, padding: 20)
@@ -396,13 +426,19 @@ UI에서는 정상적으로 deleteButton이 그려졌지만, superView인 paddin
 
 전체가 아닌 좌우에만 패딩을 적용하니 버튼이 정상적으로 인터랙션되는 점을 확인했고, UI와 상관없이 SuperView의 인터랙션 범위가 Child에 영향을 미치는 점을 학습했습니다.
 
-<br><br>
+</details>
+
+<br>
 
 ---
 
-<br><br>
+<br>
 
 ## 검색 버튼 클릭 vs 최근 검색어 터치 포커스 차이
+
+<details>
+<summary>접기/펼치기</summary>
+<br>
 
 |검색 버튼 클릭|최근 검색어 클릭|
 |-|-|
@@ -497,3 +533,5 @@ submitKeyowrd 내부에 위 함수를 추가하고나니, 최근 검색어를 �
 즉, 특정 텍스트필드가 포커스를 받으면 해당 텍스트필드는 FirstResponder가 되는 것입니다.
 
 FirstResponder를 resign한다 == 포커스를 해제한다 라는 의미로 이해할 수 있습니다.
+
+</details>
