@@ -1,3 +1,19 @@
+# Table of Content
+
+- [Information](#information)
+- [Introduce](#introduce)
+- [Architecture](#architecture)
+- [Directory](#directory)
+- [Trouble Shoot과 고민 지점](#trouble-shoot과-고민-지점)
+	- [싱글톤으로 생성하는 기준?](#싱글톤으로-생성하는-기준?)
+	- [의존성 컨테이너의 인스턴스 고유 식별 문제](#의존성-컨테이너의-인스턴스-고유-식별-문제)
+	- [레지스트리 인스턴스 미등록 예외처리 문제](#레지스트리-인스턴스-미등록-예외처리-문제)
+	- [이미지 동시 요청 순차처리 문제](#이미지-동시-요청-순차처리-문제)
+	- [Keyword Cell 버튼 탭 불가 문제](#keyword-cell-버튼-탭-불가-문제)
+	- [검색 버튼 클릭 vs 최근 검색어 터치 포커스 차이](#검색-버튼-클릭-vs-최근-검색어-터치-포커스-차이)
+
+<br><br>
+
 # Information
 보안을 위해 API_Key가 제외되어있습니다. 빌드를 원하시는 분은 아래로 Plist를 요청해주세요!
 
@@ -155,7 +171,7 @@ Vanilladin
 
 # Trouble Shoot과 고민 지점
 
-## Singleton으로 생성하는 기준?
+## 싱글톤으로 생성하는 기준?
 
 단일 책임과 기능을 가진 클래스를 사용할 때, 필요한 시점에 인스턴스를 휘발적으로 생성해서 사용하거나 싱글톤으로 단일 인스턴스를 메모리에 올려두고 사용할 수 있습니다.
 
