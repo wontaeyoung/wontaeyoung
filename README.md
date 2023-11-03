@@ -48,7 +48,7 @@
 
 <br>
 
-![Vanilladin_프로젝트 이미지](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/96f803c4-e3a9-497f-a1af-1ce086ff0fdc)
+![Vanilladin_Introduce](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/e9219b54-5d1d-42e3-85c1-d6aca001f263)
 
 <br>
 
