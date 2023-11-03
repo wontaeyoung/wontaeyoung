@@ -65,7 +65,7 @@
 
 ---
 
-### [Gitspace](https://github.com/APPSCHOOL1-REPO/finalproject-gitspace)
+### [Gitspace](https://github.com/wontaeyoung/gitspace)
 
 [Appstore Link](https://apps.apple.com/kr/app/gitspace/id6446034470)
 
