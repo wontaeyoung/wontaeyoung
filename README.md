@@ -1,50 +1,36 @@
-## Introduce
+# Introduce
 - iOS 개발자로 이루어진 'Gitspacer'팀에서 Github Star Repo Manage & Contributor Networking Chatting 앱인 [Gitspace](https://apps.apple.com/kr/app/gitspace/id6446034470)를 개발/운영하고 있습니다.
 - 클라이언트를 통해 사용자 경험을 개선하고, 데이터를 통한 비즈니스 임팩트를 만드는데 관심이 있습니다.
 - 동료들과 함께 성장하는 것을 좋아합니다. [Pull](https://github.com/APPSCHOOL1-REPO/finalproject-gitspace/pull/430) [Request](https://github.com/APPSCHOOL1-REPO/finalproject-gitspace/pull/452)에 작업 과정 중 얻은 지식을 공유하거나, 팀원들과 발표 세미나를 통해 학습한 지식을 소개하는 시간을 가지기도 합니다.
 
-<br>
+<br><br>
 
-## Skill & Tool
-- iOS - Swift, UIKit/SwifUI, Async-Await, KeyChain, NSCache, URLSession, UserDefault
-- Firebase - Auth, Firestore
-- Tool - Git, Github
-- Architecture - MVVM, Clean Architecture
+# Skill & Tool
+**iOS**
+- Swift, UIKit, SwiftUI, SPM, CocoaPods
 
-<br>
+**Library**
+- Firebase, SnapKit, Realm, KeychainAccess
 
-## Project
+**Tool**
+- Git, Github, Figma
 
-### [Vanilladin](https://github.com/wontaeyoung/vanilladin)
+**Architecture**
+- MVVM, Clean Architecture
+
+<br><br>
+
+# Project
+
+## Vanilladin (2023.08 - 2023.09, 개인)
+> 검색어를 통해 알라딘 API를 요청하여 리스트에 표시하고 상세 정보를 확인할 수 있는 프로젝트 ([READNE](https://github.com/wontaeyoung/vanilladin))
+
+**Keyword**
+- UIKit, MVVM, Coordinator, Dependency Container, Codebase AutoLayout, Infinite Scroll, Image Cache
 
 <br>
 
 ![Vanilladin_Introduce](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/e9219b54-5d1d-42e3-85c1-d6aca001f263)
-
-- 검색어를 통해 알라딘 API를 응답받아서 책 정보를 보여주는 프로젝트
-- 코드베이스 UIKit과 바닐라 기능만으로 구현
-
-<br>
-
-**작업 기간**
-- 2023.08 - 2023.10 (7주)
-
-<br>
-
-**작업 환경**
-- iOS 14.0
-- Xcode 15.0.1
-
-<br>
-
-**키워드**
-  - UIKit
-  - MVVM + Coordinator
-  - async-await 비동기 처리
-  - TaskGroup 병렬 처리
-  - 무한스크롤
-  - UserDefault
-  - NSCache 이미지
 
 <br><br>
 
