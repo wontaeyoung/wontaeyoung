@@ -23,7 +23,8 @@
 # Project
 
 ## Vanilladin (2023.08 - 2023.09, 개인)
-> 검색어를 통해 알라딘 API를 요청하여 리스트에 표시하고 상세 정보를 확인할 수 있는 프로젝트 ([READNE](https://github.com/wontaeyoung/vanilladin))
+
+> 검색어를 통해 알라딘 API를 요청하여 리스트에 표시하고 상세 정보를 확인할 수 있는 프로젝트 ([README](https://github.com/wontaeyoung/vanilladin))
 
 **Keyword**
 - UIKit, MVVM, Coordinator, Dependency Container, Codebase AutoLayout, Infinite Scroll, Image Cache
@@ -36,53 +37,23 @@
 
 ---
 
-### [Gitspace](https://github.com/wontaeyoung/gitspace)
+## Gitspace (2023.01 ~ 2023.05, 7인)
 
-[Appstore Link](https://apps.apple.com/kr/app/gitspace/id6446034470)
+> 사용자가 Starred한 레포지토리를 커스텀 태그로 관리하고, Contributor와 채팅으로 소통할 수 있는 네트워킹 앱 ([README](https://github.com/wontaeyoung/gitspace) | [AppStore](https://apps.apple.com/kr/app/gitspace/id6446034470))
+
+**Keyword**
+- SwiftUI, MVS, Github API, Design System, Firebase, Image Cache
+
+<br>
 
 ![GitSpace_Introduce](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/8d05a39b-04d5-411d-93d7-ed6d2e30b392)
 
-- 사용자가 Starred한 레포지토리를 커스텀 태그로 관리하고, Contributor와 채팅으로 소통할 수 있는 네트워킹 앱
-- SwiftUI + MVVM으로 1차 출시 완료
-- TCA 아키텍처 및 모듈화 적용 리팩토링 시작
-
-<br>
-
-**개발 인원**
-- iOS 개발자 7인
-
-<br>
-
-**작업 기간**
-- 2023.01 ~ 2023.05 (1차 출시)
-- 2023.10 ~ 진행 중 (리팩토링)
-
-<br>
-
-**작업 환경**
-- 1차 작업
-  - iOS 15.0
-  - Xcode 14.1
-- 리팩토링
-  - iOS 16.0
-  - Xcode 15.0.1
-
-<br>
-
-**키워드**
-  - SwiftUI
-  - MVVM
-  - async-await 비동기 처리
-  - Firebase
-  - NSCache 이미지
-  - Github API
-
-<br>
+<br><br>
 
 ## Career(비 개발)
 - 2020.03 ~ 2022.06 쿠팡주식회사 - 쿠팡이츠 Operation Strategy 서비스 프로세스 개선, 데이터 지표 관리
 
-<br>
+<br><br>
 
 ## Education
 - 2023.08 ~ 한국방송통신대학교 컴퓨터공학과
@@ -90,15 +61,13 @@
 - 2022.07 ~ 2022.08 네이버 부스트캠프 챌린지 iOS
 - 2013.03 ~ 2017.06 한국호텔관광전문학교 호텔관광경영학과
 
-<br/>
+<br><br>
 
 ## Contact & Channel
 - Blog : https://velog.io/@wontaeyoung
-- Email: hexter1994@gmail/naver.com
+- Email : hexter1994@gmail / naver.com
 
-<br/>
-
-
+<br><br>
 
 ---
 
