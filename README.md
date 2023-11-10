@@ -26,10 +26,6 @@
 
 > 검색어를 통해 알라딘 API를 요청하여 리스트에 표시하고 상세 정보를 확인할 수 있는 프로젝트 ([README](https://github.com/wontaeyoung/vanilladin))
 
-<a href="https://github.com/wontaeyoung/vanilladin">
-    <img src="https://github.com/wontaeyoung/wontaeyoung/assets/45925685/4b166522-01c6-44e5-a13a-ab439ed341d9" width="100">
-</a>
-
 **Keyword**
 - UIKit, MVVM, Coordinator, Dependency Container, Codebase AutoLayout, Infinite Scroll, Image Cache
 
