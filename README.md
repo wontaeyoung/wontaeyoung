@@ -37,7 +37,7 @@
 
 ---
 
-## Gitspace (2023.01 ~ 2023.05, 7인)
+## Gitspace (2023.01 ~ 진행 중, 7인)
 
 > 사용자가 Starred한 레포지토리를 커스텀 태그로 관리하고, Contributor와 채팅으로 소통할 수 있는 네트워킹 앱 ([README](https://github.com/wontaeyoung/gitspace) | [AppStore](https://apps.apple.com/kr/app/gitspace/id6446034470))
 
