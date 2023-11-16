@@ -10,7 +10,7 @@
 - Swift, UIKit, SwiftUI, SPM, CocoaPods
 
 **Library**
-- Firebase, SnapKit, Realm, KeychainAccess
+- Firebase, SnapKit, Realm
 
 **Tool**
 - Git, Github, Figma
@@ -21,6 +21,16 @@
 <br><br>
 
 # Project
+
+## AutoHeightEditor (2023.11, 개인)
+
+> 동적 높이 조절 기능을 가진 커스텀 `TextEditor` 오픈소스 라이브러리 ([README](https://github.com/wontaeyoung/autoheighteditor))
+
+**Keyword**
+
+- SwiftUI, DesignSystem, Library
+
+<br><br>
 
 ## Vanilladin (2023.08 - 2023.09, 개인)
 
