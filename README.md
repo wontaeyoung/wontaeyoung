@@ -9,7 +9,7 @@
 - Git, Github, Figma
 
 **Architecture**
-- MVVM, Clean Architecture
+- MVVM-C, Clean Architecture
 
 <br><br>
 
