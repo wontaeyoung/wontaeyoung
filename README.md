@@ -1,15 +1,15 @@
-# Skill & Tool
+# Skill
 **iOS**
-- Swift, UIKit, SwiftUI, SPM, CoreData
+- UIKit, SwiftUI
+- Compositional Layout, Diffable Datasource
+- MapKit, WebKit, Core Location, Photos UI
+- URLSession, NSCache
 
 **Library**
-- Firebase, SnapKit, Realm
-
-**Tool**
-- Git, Github, Figma
-
-**Architecture**
-- MVVM-C, Clean Architecture
+- Realm, Alamofire, Kingfisher
+- RxSwift, SnapKit
+- Firebase Analytics / Crashlytics
+- FSPager, Toast, DGCharts
 
 <br><br>
 
