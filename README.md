@@ -15,6 +15,21 @@
 
 # Project
 
+## 산책일기 (2024.03, 개인)
+
+> 산책하면서 찍은 사진을 일기와 함께 기록할 수 있는 앱 ([README](https://github.com/wontaeyoung/PhotoRamble))
+
+**Keyword**
+
+- UIKit, RxSwift, Realm, Compositional Layout, File System, Firebase Analytics / Crashlytics
+
+<br>
+
+
+![image](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/1ba1277d-3790-45ff-a36a-7a5602e26769)
+
+<br><br>
+
 ## AutoHeightEditor (2023.11, 개인)
 
 > 동적 높이 조절 기능을 가진 커스텀 `TextEditor` 오픈소스 라이브러리 ([README](https://github.com/wontaeyoung/autoheighteditor))
