@@ -17,6 +17,8 @@
 
 ## Keycat (2024.04, 개인)
 
+> 키보드 특화 커머스 플랫폼 앱 ([README](https://github.com/wontaeyoung/Keycat))
+
 **Keyword**
 
 - UIKit, RxSwift, Clean-Architecture, RxAlamofire, UIHostingController, Interceptor, EventMonitor, Kingfisher
