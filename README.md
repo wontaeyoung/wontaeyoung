@@ -53,7 +53,7 @@
 
 <br>
 
-![AutoHeightEditor-Introduce](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/13961845-486e-42d0-8798-b4fa57cdda1e)
+![image](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/693cd53c-e8f4-419b-82af-20bb849a5d32)
 
 <br><br>
 
@@ -78,11 +78,11 @@
 > 사용자가 Starred한 레포지토리를 커스텀 태그로 관리하고, Contributor와 채팅으로 소통할 수 있는 네트워킹 앱 ([README](https://github.com/wontaeyoung/gitspace) | [AppStore](https://apps.apple.com/kr/app/gitspace/id6446034470))
 
 **Keyword**
-- SwiftUI, MVS, Github API, Design System, Firebase, Image Cache
+- SwiftUI, Github API, Design System, Firestore, Image Cache
 
 <br>
 
-![GitSpace_Introduce](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/8d05a39b-04d5-411d-93d7-ed6d2e30b392)
+![image](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/e7ea38cc-5900-4317-b824-e20bd6e11492)
 
 <br><br>
 
