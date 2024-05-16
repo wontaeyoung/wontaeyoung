@@ -66,7 +66,8 @@
 
 <br>
 
-![Vanilladin_Introduce](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/e9219b54-5d1d-42e3-85c1-d6aca001f263)
+![image](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/ba0141b9-0524-4416-98b4-90f6afaa3891)
+
 
 <br><br>
 
