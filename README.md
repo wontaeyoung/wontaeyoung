@@ -59,7 +59,7 @@
 
 ## Vanilladin (2023.08 - 2023.09, 개인)
 
-> 검색어를 통해 알라딘 API를 요청하여 리스트에 표시하고 상세 정보를 확인할 수 있는 프로젝트 ([README](https://github.com/wontaeyoung/vanilladin))
+> 바닐라 프로그래밍으로 개발한 알라딘 책 정보 조회 앱 ([README](https://github.com/wontaeyoung/vanilladin))
 
 **Keyword**
 - UIKit, MVVM, Coordinator, Dependency Container, Codebase AutoLayout, Infinite Scroll, Image Cache
