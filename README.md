@@ -59,7 +59,7 @@
 
 ## Vanilladin (2023.08 - 2023.09, 개인)
 
-> 바닐라 프로그래밍으로 개발한 알라딘 책 정보 조회 앱 ([README](https://github.com/wontaeyoung/vanilladin))
+> 바닐라 프로그래밍으로 개발한 알라딘 책 정보 조회 앱 ([README](https://github.com/wontaeyoung/vanilladin))
 
 **Keyword**
 - UIKit, MVVM, Coordinator, Dependency Container, Codebase AutoLayout, Infinite Scroll, Image Cache
@@ -92,7 +92,7 @@
 <br><br>
 
 ## Education
-- 2023.12 ~ SeSAC iOS 4기
+- 2023.12 ~ SeSAC 메모리스 iOS 4기
 - 2023.08 ~ 한국방송통신대학교 컴퓨터공학과
 - 2022.09 ~ 2023.02 멋쟁이 사자처럼 iOS 앱스쿨
 - 2022.07 ~ 2022.08 네이버 부스트캠프 챌린지 iOS
