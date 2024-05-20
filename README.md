@@ -39,7 +39,7 @@
 
 <br>
 
-![image](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/1ba1277d-3790-45ff-a36a-7a5602e26769)
+![image](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/8c367bf4-a031-45f7-aeec-13fcd65eab0b)
 
 <br><br>
 
