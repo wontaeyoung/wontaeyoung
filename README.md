@@ -23,11 +23,7 @@
 
 - UIKit, RxSwift, Clean-Architecture, RxAlamofire, UIHostingController, Interceptor, EventMonitor, Kingfisher
 
-<br>
-
 ![Keycat_ReadME_2](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/0ff26d75-cf3d-4147-8278-ea86e1b0dbf7)
-
-<br><br>
 
 ## 산책일기 (2024.03, 개인)
 
@@ -37,11 +33,7 @@
 
 - UIKit, RxSwift, Realm, Compositional Layout, File System, Firebase Analytics / Crashlytics
 
-<br>
-
 ![image](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/8c367bf4-a031-45f7-aeec-13fcd65eab0b)
-
-<br><br>
 
 ## AutoHeightEditor (2023.11, 개인)
 
@@ -51,11 +43,7 @@
 
 - SwiftUI, DesignSystem, Library, SPM
 
-<br>
-
 ![image](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/693cd53c-e8f4-419b-82af-20bb849a5d32)
-
-<br><br>
 
 ## Vanilladin (2023.08 - 2023.09, 개인)
 
@@ -64,14 +52,7 @@
 **Keyword**
 - UIKit, MVVM, Coordinator, Dependency Container, Codebase AutoLayout, Infinite Scroll, Image Cache
 
-<br>
-
 ![image](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/ba0141b9-0524-4416-98b4-90f6afaa3891)
-
-
-<br><br>
-
----
 
 ## Gitspace (2023.01 ~ 2023.02, 팀)
 
@@ -80,11 +61,7 @@
 **Keyword**
 - SwiftUI, Github API, Design System, Firestore, Image Cache
 
-<br>
-
 ![image](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/e7ea38cc-5900-4317-b824-e20bd6e11492)
-
-<br><br>
 
 ## Career(비 개발)
 - 2020.03 ~ 2022.06 쿠팡주식회사 - 쿠팡이츠 Operation Strategy 서비스 프로세스 개선, 데이터 지표 관리
