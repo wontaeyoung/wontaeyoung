@@ -33,7 +33,7 @@
 
 - UIKit, RxSwift, Realm, Compositional Layout, File System, Firebase Analytics / Crashlytics
 
-![image](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/8c367bf4-a031-45f7-aeec-13fcd65eab0b)
+![산책일기_크롭 (1)](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/829c9a39-30fb-4786-9025-37754dd456b7)
 
 ## AutoHeightEditor (2023.11, 개인)
 
