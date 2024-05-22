@@ -56,7 +56,7 @@
 
 ## Gitspace (2023.01 ~ 2023.02, 팀)
 
-> 사용자가 Starred한 레포지토리를 커스텀 태그로 관리하고, Contributor와 채팅으로 소통할 수 있는 네트워킹 앱 ([README](https://github.com/wontaeyoung/gitspace) | [AppStore](https://apps.apple.com/kr/app/gitspace/id6446034470))
+> GitHub API 기반 Star Repository 관리 및 Contributor 채팅 앱 ([README](https://github.com/wontaeyoung/gitspace) | [AppStore](https://apps.apple.com/kr/app/gitspace/id6446034470))
 
 **Keyword**
 - SwiftUI, Github API, Design System, Firestore, Image Cache
