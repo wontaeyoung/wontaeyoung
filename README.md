@@ -1,15 +1,18 @@
 # Skill
+
 **iOS**
-- UIKit, SwiftUI
-- Compositional Layout, Diffable Datasource
+
+- UIKit, UIHostingController, Compositional Layout, Diffable Datasource
+- SwiftUI, Swift Concurrency, Combine
 - MapKit, WebKit, Core Location, Photos UI
-- URLSession, NSCache
+- URLSession, NSCache, File System, UserDefaults
 
 **Library**
+
 - Realm, Alamofire, Kingfisher
 - RxSwift, SnapKit
-- Firebase Analytics / Crashlytics
-- FSPager, Toast, DGCharts
+- Firestore, Firebase Analytics / Crashlytics
+- FSPager, Toast, DGCharts, TabMan
 
 <br><br>
 
@@ -21,7 +24,7 @@
 
 **Keyword**
 
-- UIKit, RxSwift, Clean-Architecture, RxAlamofire, UIHostingController, Interceptor, EventMonitor, Kingfisher
+- UIKit, MVVM, Coordinator, RxSwift, Clean-Architecture, RxAlamofire, UIHostingController, Interceptor, EventMonitor, Kingfisher, Cursor Pagination
 
 ![Keycat_ReadME_2](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/0ff26d75-cf3d-4147-8278-ea86e1b0dbf7)
 
@@ -31,7 +34,7 @@
 
 **Keyword**
 
-- UIKit, RxSwift, Realm, Compositional Layout, File System, Firebase Analytics / Crashlytics
+- UIKit, MVVM, Coordinator, RxSwift, Realm, Compositional Layout, File System, Firebase Analytics / Crashlytics
 
 ![산책일기_스크린샷_변경](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/710326b3-ed52-411e-876d-a9fe7c184cad)
 
@@ -41,7 +44,7 @@
 
 **Keyword**
 
-- SwiftUI, DesignSystem, Library, SPM
+- SwiftUI, Design System, Library, SPM
 
 ![image](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/693cd53c-e8f4-419b-82af-20bb849a5d32)
 
@@ -50,7 +53,8 @@
 > 바닐라 프로그래밍으로 개발한 알라딘 책 정보 조회 앱 ([README](https://github.com/wontaeyoung/vanilladin))
 
 **Keyword**
-- UIKit, MVVM, Coordinator, Dependency Container, Codebase AutoLayout, Infinite Scroll, Image Cache
+
+- UIKit, MVP, Coordinator, Swift Concurrency, DI Container, NSLayoutConstraint, Offset Pagination, Cache
 
 ![image](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/ba0141b9-0524-4416-98b4-90f6afaa3891)
 
@@ -59,7 +63,7 @@
 > GitHub API 기반 Star Repository 관리 및 Contributor 채팅 앱 ([README](https://github.com/wontaeyoung/gitspace) | [AppStore](https://apps.apple.com/kr/app/gitspace/id6446034470))
 
 **Keyword**
-- SwiftUI, Github API, Design System, Firestore, Image Cache
+- SwiftUI, Github API, Design System, Firestore, Cache
 
 ![image](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/e7ea38cc-5900-4317-b824-e20bd6e11492)
 
