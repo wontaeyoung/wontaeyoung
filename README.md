@@ -27,7 +27,7 @@
 
 ## 산책일기 (2024.03, 개인)
 
-> 산책하면서 찍은 사진을 일기와 함께 기록할 수 있는 앱 ([README](https://github.com/wontaeyoung/PhotoRamble))
+> 산책하면서 찍은 사진을 일기와 함께 기록할 수 있는 앱 ([README](https://github.com/wontaeyoung/PhotoRamble) | [AppStore](https://apps.apple.com/kr/app/%EC%82%B0%EC%B1%85%EC%9D%BC%EA%B8%B0/id6479728861))
 
 **Keyword**
 
