@@ -1,18 +1,44 @@
-# Skill
+## Skill
 
-**iOS**
+**Framework**
 
-- UIKit, UIHostingController, Compositional Layout, Diffable Datasource
-- SwiftUI, Swift Concurrency, Combine
-- MapKit, WebKit, Core Location, Photos UI
-- URLSession, NSCache, File System, UserDefaults
+- UIKit, SwiftUI, MapKit, Core Location, Photos UI, Localization
 
-**Library**
+**Network**
 
-- Realm, Alamofire, Kingfisher
-- RxSwift, SnapKit
-- Firestore, Firebase Analytics / Crashlytics
-- FSPager, Toast, DGCharts, TabMan
+- URLSession, Alamofire(Rx), Kingfisher, SocketIO
+
+**Database**
+
+- Core Data, Realm, Firestore
+
+**Reactive**
+
+- RxSwift, Combine
+
+**Asynchronous & Concurrency**
+
+- GCD, Swift Concurrency
+
+**Layout**
+
+- StoryBoard, NSLayoutConstraints, SnapKit, Compositional Layout
+
+**UI**
+
+- FSPager, Toast, DGCharts, TabMan, IQKeyboard, TextFieldEffects
+
+**Data Handling**
+
+- Diffable Datasource, NSCache, File System, UserDefaults
+
+**Test & Debug**
+
+- XCTest, TestFlight, LLDB
+
+**Monitoring**
+
+- Firebase Analytics, Firebase Crashlytics
 
 <br><br>
 
@@ -38,16 +64,6 @@
 
 ![산책일기_스크린샷_변경](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/710326b3-ed52-411e-876d-a9fe7c184cad)
 
-## AutoHeightEditor (2023.11, 개인)
-
-> 동적 높이 조절 기능을 가진 커스텀 `TextEditor` 오픈소스 라이브러리 ([README](https://github.com/wontaeyoung/autoheighteditor))
-
-**Keyword**
-
-- SwiftUI, Design System, Library, SPM
-
-![image](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/693cd53c-e8f4-419b-82af-20bb849a5d32)
-
 ## Vanilladin (2023.08 - 2023.09, 개인)
 
 > 바닐라 프로그래밍으로 개발한 알라딘 책 정보 조회 앱 ([README](https://github.com/wontaeyoung/vanilladin))
@@ -66,6 +82,20 @@
 - SwiftUI, Github API, Design System, Firestore, Cache
 
 ![image](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/e7ea38cc-5900-4317-b824-e20bd6e11492)
+
+# OpenSource
+
+## AutoHeightEditor (2023.11, 개인)
+
+> 동적 높이 조절 기능을 가진 커스텀 `TextEditor` 오픈소스 라이브러리 ([README](https://github.com/wontaeyoung/autoheighteditor))
+
+**Keyword**
+
+- SwiftUI, Design System, Library, SPM
+
+![image](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/693cd53c-e8f4-419b-82af-20bb849a5d32)
+
+<br><br>
 
 ## Career(비 개발)
 - 2020.03 ~ 2022.06 쿠팡주식회사 - 쿠팡이츠 Operation Strategy 서비스 프로세스 개선, 데이터 지표 관리
