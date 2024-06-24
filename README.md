@@ -44,6 +44,12 @@
 
 # Project
 
+## FlowTalk (2024.06 ~ 진행 중, 개인)
+
+> 워크스페이스/채널 기반 인스턴트 메신저 협업 앱
+
+- SwiftUI, TCA, Moya, Combine, Interceptor, EventMonitor, Kingfisher, Cursor Pagination
+
 ## Keycat (2024.04, 개인)
 
 > 키보드 특화 커머스 플랫폼 앱 ([README](https://github.com/wontaeyoung/Keycat))
