@@ -70,7 +70,7 @@
 
 **Keyword**
 
-- UIKit, MVP, Coordinator, Swift Concurrency, DI Container, NSLayoutConstraint, Offset Pagination, Cache
+- UIKit, MVC, Coordinator, Swift Concurrency, DI Container, NSLayoutConstraint, Offset Pagination, Cache
 
 ![image](https://github.com/wontaeyoung/wontaeyoung/assets/45925685/ba0141b9-0524-4416-98b4-90f6afaa3891)
 
