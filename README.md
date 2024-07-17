@@ -48,7 +48,7 @@
 
 > 워크스페이스/채널 기반 인스턴트 메신저 협업 앱
 
-- SwiftUI, TCA, Moya, Combine, Interceptor, EventMonitor, Kingfisher, Cursor Pagination
+- SwiftUI, TCA, Moya, Combine, Socket IO, Interceptor, EventMonitor, Kingfisher, Cursor Pagination
 
 ## Keycat (2024.04, 개인)
 
