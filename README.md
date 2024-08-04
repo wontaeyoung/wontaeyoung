@@ -44,9 +44,9 @@
 
 # Project
 
-## FlowTalk (2024.06 ~ 진행 중, 개인)
+## FlowTalk (2024.07 ~ 진행 중, 개인)
 
-> 워크스페이스/채널 기반 인스턴트 메신저 협업 앱
+> 워크스페이스/채널 기반 인스턴트 메신저 협업 앱 ([README](https://github.com/wontaeyoung/FlowTalk))
 
 - SwiftUI, TCA, Moya, Combine, Socket IO, Interceptor, EventMonitor, Kingfisher, Cursor Pagination
 
